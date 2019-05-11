@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+}
+
+h1 {
+  color: #428bca;
+  font-weight: bold;
+  font-size: 6rem;
+  text-align: center;
+  padding: 40px;
+  background-color: lightgray;
+  margin-top: 0;
+  font-family: 'Indie Flower', 'cursive';
+}
+
+a:hover {
+  text-decoration: none;
+  color: #428bca;
+  text-align: center;
+}
+
+.blog_post {
+  margin-left: 20px;
+}
+
+.blog_post h2 {
+  margin-bottom: 20px;
+  font-family: 'Indie Flower', 'cursive';
+  font-weight: bold;
+}
